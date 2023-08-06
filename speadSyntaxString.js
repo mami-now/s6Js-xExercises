@@ -24,6 +24,7 @@ assert.deepEqual(rest, [1, 2, 3, 4, 5]);
 can also be used as function parameter‣
 const max = Math.max(...'12345');
 assert.deepEqual(max, 5);  */
+//https://jskatas.org/katas/es6/language/spread/with-strings/
 
 // 21: spread - with-strings
 // To do: make all tests pass, leave the assert lines unchanged!
